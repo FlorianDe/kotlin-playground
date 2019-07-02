@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClassName = "cli.Main"
+    mainClassName = "introduction.Main"
 }
 
 dependencies {

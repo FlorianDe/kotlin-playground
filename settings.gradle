@@ -1,3 +1,2 @@
 rootProject.name = 'kotlin-playground'
-include("introduction")
-
+include("introduction", "codewars")
